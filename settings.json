@@ -1,0 +1,41 @@
+{
+    "total_clicks": 0,
+    "current_clicks": 1,
+
+    "one_click": 1,
+    "auto_click": 0,
+
+    "one_click_price": 1000,
+    "one_click_price_multiplier": 2,
+
+    "names": ["roommate", "team", "the_university", "chinese",
+              "nine_year_olds", "country", "population"],
+
+    "roommate_clicks": 1,
+    "roommate_price": 30,
+    "roommate_price_increment": 10,
+
+    "team_clicks": 11,
+    "team_price": 400,
+    "team_price_increment": 200,
+
+    "the_university_clicks": 250,
+    "the_university_price": 8000,
+    "the_university_price_increment": 4000,
+
+    "chinese_clicks": 12000,
+    "chinese_price": 400000,
+    "chinese_price_increment": 150000,
+
+    "nine_year_olds_clicks": 1000000,
+    "nine_year_olds_price": 30000000,
+    "nine_year_olds_price_increment": 50000000,
+
+    "country_clicks": 300000000,
+    "country_price": 1000000000,
+    "country_price_increment": 5000000000,
+
+    "population_clicks": 750000000000,
+    "population_price": 750000000000,
+    "population_price_increment": 750000000000
+}
